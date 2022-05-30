@@ -1,2 +1,2 @@
 Student Programmer
-currently learning Rust and Next.JS
+currently learning Rust and Javascript
